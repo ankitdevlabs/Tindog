@@ -25,6 +25,7 @@ A landing page for a fictional dating app for dogs. Built as a front-end project
 ## Getting Started
 
 1. Clone this repository:
+
    ```bash
    git clone https://github.com/your-username/tindog.git
    cd tindog
@@ -52,7 +53,3 @@ tindog/
 ├── index.html          # Main HTML file
 └── README.md
 ```
-
-## License
-
-This project is for educational purposes.
