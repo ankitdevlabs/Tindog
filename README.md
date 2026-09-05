@@ -53,3 +53,8 @@ tindog/
 ├── index.html          # Main HTML file
 └── README.md
 ```
+
+## 👤 Author
+
+- **Ankit Shrestha**
+- [GitHub](https://github.com/ankitdevlabs)
